@@ -1,0 +1,35 @@
+.imperio {
+  background-color: red;
+}
+.rebeldes {
+  background-color: blue;
+}
+#darth_vader {
+  font-size: 2em;
+}
+
+#luke_skywalker {
+  font-style: italic;
+}
+.soldados {
+  border: 2px solid black;
+  border-style: dashed;
+  letter-spacing: 0.1em;
+}
+.apoyo {
+  text-align: center;
+}
+.naves {
+  text-transform: uppercase;
+}
+div {
+  display: flex;
+  justify-content: center;
+}
+body {
+  background-image: url("https://cdn.pixabay.com/photo/2016/01/27/15/25/space-1164579_1280.png");
+}
+
+body {
+  font-family: "StarJediHollow-A4lL", sans-serif;
+}
