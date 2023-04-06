@@ -31,5 +31,10 @@ body {
 }
 
 body {
-  font-family: "StarJediHollow-A4lL", sans-serif;
+  font-family: "star_wars_font", sans-serif;
+}
+
+@font-face {
+  font-family: star_wars_font;
+  src: url(fonts\StarJediHollow-A4lL.ttf);
 }
